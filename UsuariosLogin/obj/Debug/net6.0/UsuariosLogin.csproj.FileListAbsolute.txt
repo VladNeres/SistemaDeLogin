@@ -1,0 +1,144 @@
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\appsettings.json
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.exe
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.deps.json
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.runtimeconfig.json
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.pdb
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\FluentResults.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\comerr64.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\gssapi64.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\krb5_64.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\krbcc64.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.csproj.AssemblyReference.cache
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.AssemblyInfoInputs.cache
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.AssemblyInfo.cs
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.csproj.CoreCompileInputs.cache
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\scopedcss\bundle\UsuariosLogin.styles.css
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.csproj.CopyComplete
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\refint\UsuariosLogin.dll
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.pdb
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.genruntimeconfig.cache
+C:\Users\Vladmir\source\repos\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\ref\UsuariosLogin.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\appsettings.json
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.exe
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.deps.json
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.runtimeconfig.json
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\UsuariosLogin.pdb
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\FluentResults.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\comerr64.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\gssapi64.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\krb5_64.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\krbcc64.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.csproj.AssemblyReference.cache
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.AssemblyInfoInputs.cache
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.AssemblyInfo.cs
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.csproj.CoreCompileInputs.cache
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\scopedcss\bundle\UsuariosLogin.styles.css
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.csproj.CopyComplete
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\refint\UsuariosLogin.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.pdb
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\UsuariosLogin.genruntimeconfig.cache
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\obj\Debug\net6.0\ref\UsuariosLogin.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\MailKit.dll
+C:\Users\Vladmir\Documents\Projetos pessoais\c# pratica\UsuariosLogin\UsuariosLogin\bin\Debug\net6.0\MimeKit.dll
